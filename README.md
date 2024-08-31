@@ -13,7 +13,8 @@ Model Development: Implemented multiple regression models including Linear Regre
 Hyperparameter Tuning: Applied GridSearchCV to optimize model parameters, enhancing model accuracy and generalization to unseen data.
 
 Model Evaluation: Evaluated models using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared to identify the best-performing model.
-![image](https://github.com/user-attachments/assets/d198da22-083d-414b-904a-5cb44802bceb)
+![image](https://github.com/user-attachments/assets/b6f15af7-cb3c-4c02-bc74-e89275a5df27)
+
 
 
 
